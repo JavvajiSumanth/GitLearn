@@ -10,4 +10,19 @@ class Hello
         Console.WriteLine(n1+n2);
         //Console.ReadLine("123");
     }
+<<<<<<< HEAD
 }
+=======
+
+    // kapa edited this in temp file commit1
+    // kapa edited this in temp file commit2
+    // kapa edited this in temp file commit3
+    // hello world
+    // kapa edited this in temp file 
+
+#1
+}
+
+//kapa
+
+>>>>>>> c2d3262 (Number 1)
