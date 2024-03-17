@@ -43,4 +43,10 @@ njnjnj vghbnjkmknllnnljjbj
 2
 3
 4
+<<<<<<< HEAD
 5
+=======
+5
+6
+7
+>>>>>>> 47c086c (7)
