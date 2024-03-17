@@ -7,6 +7,7 @@ class Hello
     {
         n1=10;
         n2=20;
+        n3=30;
         Console.WriteLine(n1+n2);
         //Console.ReadLine("123");
                 //Console.ReadLine("123");
@@ -18,9 +19,7 @@ class Hello
                                                         //Console.ReadLine("123");
                                                         
     }
-<<<<<<< HEAD
 }
-=======
 
     // kapa edited this in temp file commit1
     // kapa edited this in temp file commit2
@@ -33,4 +32,3 @@ class Hello
 
 //kapa
 
->>>>>>> c2d3262 (Number 1)
