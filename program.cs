@@ -9,6 +9,14 @@ class Hello
         n2=20;
         Console.WriteLine(n1+n2);
         //Console.ReadLine("123");
+                //Console.ReadLine("123");
+
+                        //Console.ReadLine("123");
+                                //Console.ReadLine("123");
+                                        //Console.ReadLine("123");
+                                                //Console.ReadLine("123");
+                                                        //Console.ReadLine("123");
+                                                        
     }
 
     // kapa edited this in temp file commit1
